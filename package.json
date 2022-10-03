@@ -12,13 +12,13 @@
     "dev": "nodemon .",
     "start": "node ."
   },
-  "homepage": "https://github.com/saiteja-madha/discord-js-bot#readme",
+  "homepage": "https://github.com/Coca-Xit/Coquinha",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/saiteja-madha/discord-js-bot.git"
+    "url": "git+https://github.com/Coca-Xit/Coquinha.git"
   },
   "bugs": {
-    "url": "https://github.com/saiteja-madha/discord-js-bot/issues"
+    "url": "https://github.com/Coca-Xit/Coquinha"
   },
   "dependencies": {
     "@vitalets/google-translate-api": "^8.0.0",
